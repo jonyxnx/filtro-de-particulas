@@ -53,6 +53,8 @@ def brownian_motion_filter(dt,N, grid, m, graficar = False, ruido = 1, stop = Fa
         N (int): numero de pasos
         grid (np.array): el laberinto en el nos movemos
         m (int): cantidad de particulas
+        ruido (float): es la cantidad de ruido que añadimos la señal observada
+        stop (bool): si es True, el filtro se detiene cuando se encuentra muy cerca de la posición real
     DEVUELVE:
         d (np.array): la trayectoria del movimiento
         dx (np.array): la derivada en el eje x de la trayectoria
