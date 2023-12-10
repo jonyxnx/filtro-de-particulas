@@ -66,8 +66,8 @@ The Wilson algorithm efficiently generates random mazes based on random walks, c
 
 ## 8. References
 
-• Doucet, A.,et al. (sf.) An Introduction To Sequential Monte Carlo Methods, Oxford University.
-• Wills, Adrian G.; Schön, Thomas B. (3 May 2023). “Sequential Monte Carlo: A Unified Review”. Annual Review of Control, Robotics, and Autonomous Systems. 6: 159–182. doi:10.1146/annurev-control-042920-015119. ISSN 2573-5144. S2CID 255638127.
-• Del Moral, Pierre (1996). “Non Linear Filtering: Interacting Particle Solution”. Markov Processes and Related
-• Doucet, A.; Johansen, A.M. (December 2008). “A tutorial on particle filtering and smoothing: fifteen years later” . Technical Report
+- Doucet, A.,et al. (sf.) An Introduction To Sequential Monte Carlo Methods, Oxford University.
+- Wills, Adrian G.; Schön, Thomas B. (3 May 2023). “Sequential Monte Carlo: A Unified Review”. Annual Review of Control, Robotics, and Autonomous Systems. 6: 159–182. doi:10.1146/annurev-control-042920-015119. ISSN 2573-5144. S2CID 255638127.
+- Del Moral, Pierre (1996). “Non Linear Filtering: Interacting Particle Solution”. Markov Processes and Related
+- Doucet, A.; Johansen, A.M. (December 2008). “A tutorial on particle filtering and smoothing: fifteen years later” . Technical Report
 
