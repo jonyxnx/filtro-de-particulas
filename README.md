@@ -1,4 +1,4 @@
-# Particle Filter for Trajectory Estimation
+# Particle Filter for Trajectory Estimation with Maze Generator
 
 ## Project Overview
 
